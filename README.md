@@ -2,5 +2,8 @@
 
 ##introcution
 
+##deployement
 
 ##purpose
+
+##How to contribute
